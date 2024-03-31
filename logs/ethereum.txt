@@ -439,3 +439,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x4abc47ea5"}
 {"jsonrpc":"2.0","id":1,"result":"0x5dd37724a"}
 {"jsonrpc":"2.0","id":1,"result":"0x58572301c"}
+{"error":"{\"Error_GUID\":\"14553274670301740113\",\"Error\":\"Failed all retries {GUID:14553274670301740113,error:rpc error: code = Unknown desc = Failed to VerifyPairing for new consumer {Error:error in json rpc client, with http response metadata: (Status: 500 Internal Server Error, Protocol HTTP/1.1). error unmarshalling: invalid character '\\u003c' looking for beginning of value,GUID:14553274670301740113,sessionID:7171710229680097002,consumer:lava@1mh9d3vdthekxvc0aflnvzhurv2585aakzs9e3a,provider:lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm,relayNum:3,Providers block:996656},chain_id:ETH1}\"}"}
